@@ -6,9 +6,9 @@ layout: page
 
 ### Hello, friend!
 
-I am a Backend Engineer staying in the coastal city of Mumbai, India. I have been a part of the Indian Startup ecosystem for about 5 years working in startups across multiple domains such as Education, Ecommerce, Chat Bots, Travel and Telecom.
+I am a Backend Engineer staying in the coastal city of Mumbai, India. I have been a part of the Indian Startup ecosystem for about 5 years working across multiple domains such as Education, Ecommerce, Chat Bots, Travel and Telecom.
 
-I primarily work with **[Ruby](https://www.ruby-lang.org/en/)/[Rails](https://rubyonrails.org/)** and **[Python](https://www.python.org/)/[Django](https://www.djangoproject.com/)** and [**RDBMS**](https://en.wikipedia.org/wiki/Relational_database). With my professional work, I aim to solve tricky business problems using pragmatic engineering solutions. If the task requires, I can dabble with some Javascript as well.
+I primarily work with **[Ruby](https://www.ruby-lang.org/en/)/[Rails](https://rubyonrails.org/)** and **[Python](https://www.python.org/)/[Django](https://www.djangoproject.com/)** and [**RDBMS**](https://en.wikipedia.org/wiki/Relational_database). With my professional work, I aim to solve tricky business problems using pragmatic engineering solutions.
 
 On the side, I like learning new tech stacks or programming paradigms and get deeper into "Clean Code" paradigm. Currently, I am learning **[Elixir](https://elixir-lang.org/)/[Phoenix](https://phoenixframework.org/)** in order to explore the [Functional Programming Paradigm](https://en.wikipedia.org/wiki/Functional_programming). I am also trying to [`grok`](https://www.urbandictionary.com/define.php?term=grok) [Golang](https://golang.org/) with a sprinkling of **[Machine Learning and Data Science using Python](https://www.python-course.eu/machine_learning.php)** thrown in.
 
@@ -39,7 +39,7 @@ Oh, I also like cooking amazing food for my loved ones! :D
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/darth-dodo/gringotts-backend">Gringotts - Personal Expense Manager</a></li>
-	<li><a href="https://github.com/darth-dodo/discuss-it">DiscussIT - Elixir/Phoenix Reddit Clone</a></li>
+	<li><a href="https://darth-dodo.github.io/gringotts-backend">Gringotts - Personal Expense Tracker</a></li>
+	<li><a href="https://darth-dodo.github.io/discuss-it">DiscussIT - Elixir/Phoenix Reddit Clone</a></li>
 	<li><a href="https://darth-dodo.github.io/tgif-with-flask/">TGIF With Flask - Web dev and Flask basics presentation</a></li>
 </ul>
