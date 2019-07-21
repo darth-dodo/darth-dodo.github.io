@@ -20,6 +20,15 @@ I enjoy listening to classic rock, old school metal, IDM/Ambient and synthwave. 
 
 Oh, I also like cooking amazing food for my loved ones! :D
 
+<h2>Projects</h2>
+
+<ul>
+	<li><a href="https://darth-dodo.github.io/gringotts-backend">Gringotts - Personal Expense Tracker</a></li>
+	<li><a href="https://darth-dodo.github.io/discuss-it">DiscussIT - Elixir/Phoenix Reddit Clone</a></li>
+	<li><a href="https://darth-dodo.github.io/tgif-with-flask/">TGIF With Flask - Web dev and Flask basics presentation</a></li>
+</ul>
+
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
@@ -36,10 +45,3 @@ Oh, I also like cooking amazing food for my loved ones! :D
 	<li>Scrum (JIRA) and Kanban (Trello)</li>
 </ul>
 
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://darth-dodo.github.io/gringotts-backend">Gringotts - Personal Expense Tracker</a></li>
-	<li><a href="https://darth-dodo.github.io/discuss-it">DiscussIT - Elixir/Phoenix Reddit Clone</a></li>
-	<li><a href="https://darth-dodo.github.io/tgif-with-flask/">TGIF With Flask - Web dev and Flask basics presentation</a></li>
-</ul>
