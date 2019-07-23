@@ -24,8 +24,8 @@ Oh, I also like cooking amazing food for my loved ones! :D
 
 <ul>
 	<li><a href="https://darth-dodo.github.io/gringotts-backend">Gringotts - Personal Expense Tracker | Ruby/Rails</a></li>
-	<li><a href="https://darth-dodo.github.io/hustlers-den">Gringotts - Knowledge Resource Aggeregator for Teams | Python/Django</a></li>
-	<li><a href="https://darth-dodo.github.io/discuss-it">DiscussIT - Simple Reddit Clone | Elixir/Phoenix</a></li>
+	<li><a href="https://darth-dodo.github.io/hustlers-den">Hustlers Den - Knowledge Resource Aggeregator for Teams | Python/Django</a></li>
+	<li><a href="https://darth-dodo.github.io/discuss-it">DiscussIT - Simple Full Stack Reddit Clone | Elixir/Phoenix</a></li>
 	<li><a href="https://darth-dodo.github.io/tgif-with-flask/">TGIF With Flask - Web dev and Flask basics presentation</a></li>
 </ul>
 
