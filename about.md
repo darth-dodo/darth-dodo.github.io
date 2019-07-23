@@ -14,7 +14,7 @@ On the side, I like learning new tech stacks or programming paradigms and get de
 
 In my free time, I mentor younger engineers (pro bono) to up their backend engineering game and help non-programmers get started with learning programming languages.
 
-I like reading open source repos to widen my knowledge about best practices and industry trends. Some of my favorite open source repos are [Django](https://github.com/django/django), [DRF](https://github.com/encode/django-rest-framework), [Discourse](https://github.com/discourse/discourse), [Saelor](https://github.com/mirumee/saleor), [Devise](https://github.com/plataformatec/devise).
+I like reading open source repos to widen my knowledge about best practices and industry trends. Some of my favorite open source repos are [Django](https://github.com/django/django), [DRF](https://github.com/encode/django-rest-framework), [Discourse](https://github.com/discourse/discourse), [Saleor](https://github.com/mirumee/saleor), [Devise](https://github.com/plataformatec/devise).
 
 I enjoy listening to classic rock, old school metal, IDM/Ambient and synthwave. My favorite artists are [Nujabes](https://www.youtube.com/watch?v=TjFEHf6y7CU), [Tycho](https://www.youtube.com/watch?v=9kuNshckRIU) and [Iron Maiden](https://www.youtube.com/watch?v=Xg9aQvjMS60).
 
