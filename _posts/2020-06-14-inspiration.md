@@ -23,7 +23,7 @@ He has this great mix of optimism, simplicity and brutal pragmatism which is lik
 
 I am glad I made that call to a random stranger to help me build a website four years ago. I am glad I kept pestering him with "Tu Frontend, Main Backend" (You handle the Frontend, I will handle the Backend) line for all these years. I hope we never get around building that website and get this behind us. Where's the fun in that? 🤷🏻‍♂️
 
-Meeting and growing up with Abhishek has been one of the most cherished experiences of my life. Thanks for inspiring me to start blogging 🔥 !
+Meeting and growing up with Abhishek has been one of the most cherishing experiences of my life. Thanks for inspiring me to start blogging 🔥 !
 
 ---
 
