@@ -1,1 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-11T09:02:43+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Abhishek Juneja</title></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-14T20:02:02+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Abhishek Juneja</title><entry><title type="html">Inspiration</title><link href="http://localhost:4000/inspiration/" rel="alternate" type="text/html" title="Inspiration" /><published>2020-06-14T18:52:00+02:00</published><updated>2020-06-14T18:52:00+02:00</updated><id>http://localhost:4000/inspiration</id><content type="html" xml:base="http://localhost:4000/inspiration/">&lt;h2 id=&quot;why-should-i-have-a-blog&quot;&gt;“Why should I have a blog?”&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Why should I have a blog? What do I have to offer? Who would read this? What is the point of this?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I have repeatedly asked this question (in all it’s different flavors) to &lt;a href=&quot;https://nagekar.com/&quot;&gt;Abhishek Nagekar&lt;/a&gt;, a close friend. He has categorically explained to me the reasons I should consider. It has taken me a few years to get around and publish this first post.&lt;/p&gt;
+
+&lt;p&gt;So, what made me actually bite the bullet? I was thinking about a way to thank him. Abhishek has been a great pillar of support and this seemed one of the best ways to honor our friendship. Start blogging.&lt;/p&gt;
+
+&lt;p&gt;I have known Abhishek for about four years now (give or take a few months for change) and been friends for around three years. Over this time period, I have seen him grow as an extremely generous and humble person. Despite whatever life throws at him, magically, he remains firmly grounded to his core values. He is still that inquisitive kid I met in college. On some days, he has the wisdom of an old soul and on some he’s that innocent kid in your childhood playground merrily riding his bicycle.&lt;/p&gt;
+
+&lt;p&gt;He has this great mix of optimism, simplicity and brutal pragmatism which is like a breath of fresh air in this world marked with experiences having streaks of duplicitous and shrewdness. His perspectives add a lot of value to my life and his opinions help me see some of the unseen.&lt;/p&gt;
+
+&lt;p&gt;I am glad I made that call to a random stranger to help me build a website four years ago. I am glad I kept pestering him with “Tu Frontend, Main Backend” (You handle the Frontend, I will handle the Backend) line for all these years. I hope we never get around building that website and get this behind us. Where’s the fun in that? 🤷🏻‍♂️&lt;/p&gt;
+
+&lt;p&gt;Meeting and growing up with Abhishek has been one of the most cherished experiences of my life. Thanks for inspiring me to start blogging 🔥 !&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;so-what-is-this-all-gonna-be-about&quot;&gt;So, what is this all gonna be about?&lt;/h2&gt;
+
+&lt;p&gt;I aim to share my adventures in life through this medium. The posts might broadly be classified as follows:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Experiences&lt;/strong&gt;: Life experiences that paint some of my perspective. Like this ^&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Experiments&lt;/strong&gt;: Tech tutorials, guides, and knick knacks&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Essays&lt;/strong&gt;: Opinion pieces about things I am passionate about; books, music, media, backend engineering and teaching&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="blog" /><category term="experiences" /><summary type="html">“Why should I have a blog?”</summary></entry></feed>
